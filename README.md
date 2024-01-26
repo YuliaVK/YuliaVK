@@ -2,9 +2,10 @@
 Hey there! 👋🏻 👩🏼‍💻
 
 My name is Yulia and I'm a data analyst who's passionate about all things creative and analytical. With a background in graphic design and management, I've developed a unique set of skills that allows me to approach problem-solving in a distinctive way.
-I'm enthusiastic, detail-oriented, and always striving to learn and grow. I'm proficient in various data analytics tools and languages, thanks to a range of bootcamps, professional certification programs, and personal projects. 
 
-My ultimate goal is to work in a dynamic and collaborative environment where I can contribute to the growth of an organisation while continuing to evolve as a data professional. So, if you're looking for someone who's ambitious, enthusiastic, and has a wealth of knowledge, feel free to <a href="mailto:yuliavk.git@gmail.com?subject=[GitHub]">reach out to me</a>!
+I'm super enthusiastic, detail-oriented, and always striving to learn and grow. I'm proficient in various data analytics tools and languages which I've learned through bootcamps, certification programs, and personal projects. Currently, I'm taking part in a fantastic Data Analytics bootcamp and doing EDA for [Neighbourhood Safety Prediction](https://github.com/mlsystemdesignproject/neighbourhood-safety-prediction#readme) Project. 
+
+My ultimate goal is to work in a dynamic and collaborative environment where I can contribute to the growth of a business while continuing to evolve as a data professional. So, if you're looking for someone who's ambitious, enthusiastic, and has a wealth of knowledge, feel free to <a href="mailto:yuliavk.git@gmail.com?subject=[GitHub]">reach out to me</a>!
 <!--
 **YuliaVK/YuliaVK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
