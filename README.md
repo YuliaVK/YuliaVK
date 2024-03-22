@@ -3,7 +3,7 @@ Hey there! 👋🏻 👩🏼‍💻
 
 My name is Yulia and I'm a data analyst who's passionate about all things creative and analytical. With a background in graphic design and management, I've developed a unique set of skills that allows me to approach problem-solving in a distinctive way.
 
-I'm super enthusiastic, detail-oriented, and always striving to learn and grow. I'm proficient in various data analytics tools and languages which I've learned through bootcamps, certification programs, and personal projects. Currently, I'm taking part in a fantastic Data Analytics bootcamp, as well as contributing to the [Neighbourhood Safety Prediction](https://github.com/mlsystemdesignproject/neighbourhood-safety-prediction#readme) Project by engaging in Data Acquisition and Exploratory Data Analysis (EDA).
+I'm super enthusiastic, detail-oriented, and always striving to learn and grow. I'm proficient in various data analytics tools and languages which I've learned through bootcamps, certification programs, and personal projects. Currently, I'm taking part in a fantastic Data Analytics bootcamp, as well as contributing to London Neighbourhood Safety Prediction<!--(https://github.com/mlsystemdesignproject/neighbourhood-safety-prediction#readme)--> Project by engaging in Data Acquisition and Exploratory Data Analysis (EDA).
 
 My ultimate goal is to work in a dynamic and collaborative environment where I can contribute to the growth of a business while continuing to evolve as a data professional. So, if you're looking for someone who's ambitious and has a wealth of knowledge, feel free to <a href="mailto:yuliavk.git@gmail.com?subject=[GitHub]">reach out</a> or connect with me on [LinkedIn](https://www.linkedin.com/in/yuliavk/)!
 
