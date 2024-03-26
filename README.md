@@ -1,4 +1,4 @@
-<img src="https://github.com/YuliaVK/YuliaVK/blob/main/pics/GitPic.png" alt="banner that says Yulia Khrenova - Data Analytics Professional, alongside bages MySQL, Pyphon, Tableau, AWS, Excel and others">
+<img src="https://github.com/YuliaVK/YuliaVK/blob/main/pics/GitPic_1.png" alt="banner that says Yulia Khrenova - Data Analytics Professional, alongside bages MySQL, Pyphon, Tableau, AWS, Excel and others">
 Hey there! 👋🏻 👩🏼‍💻
 
 My name is Yulia and I'm a data analyst who's passionate about all things creative and analytical. With a background in graphic design and management, I've developed a unique set of skills that allows me to approach problem-solving in a distinctive way.
