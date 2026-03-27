@@ -1,4 +1,3 @@
-<img src="https://github.com/YuliaVK/YuliaVK/blob/main/pics/GitPic.png" alt="banner that says Yulia Khrenova - Data Analytics Professional, alongside bages MySQL, Pyphon, Tableau, AWS, Excel and others">
 Hey there! 👋🏻 👩🏼‍💻
 
 I am Yulia, a sales professional and data‑literate Account Executive, now transitioning into SaaS. I’ve spent 5+ years leading high‑value sales cycles, opening new B2B channels, and managing high‑net‑worth and enterprise accounts, consistently growing revenue through consultative selling and disciplined follow‑up.
@@ -21,6 +20,8 @@ Looking forward to connecting and collaborating!
 <img src="https://github.com/YuliaVK/Data-Analytics/blob/main/EDA_Sales/images/SalesEase.png" alt="image with a title page of the latest project presentation">
 
 **YuliaVK/YuliaVK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://github.com/YuliaVK/YuliaVK/blob/main/pics/GitPic.png" alt="banner that says Yulia Khrenova - Data Analytics Professional, alongside bages MySQL, Pyphon, Tableau, AWS, Excel and others">
 
 My name is Yulia and I'm a data analyst who's passionate about all things creative and analytical. With a background in graphic design and management, I've developed a unique set of skills that allows me to approach problem-solving in a distinctive way.
 
